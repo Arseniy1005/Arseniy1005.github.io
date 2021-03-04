@@ -1,0 +1,46 @@
+* {
+    margin: 0px auto;
+}
+
+body {
+    height: 100rem;
+}
+
+#figure5-3, #figure5-25, #figure5-2, #figure5-15, #figure5-1 {
+    background-color: red; 
+    height: 5rem;
+    position: relative;
+}
+
+#figure5-1 {
+    width: 55rem;
+    top: 10rem;
+    margin-right: 0rem;
+}
+
+#figure5-15 {
+    margin-right: 47.5rem;
+    top: 12.5rem;
+    transform: rotate(90deg);
+    width: 10rem;
+}
+
+#figure5-2 {
+    width: 14rem;
+    top:15rem;
+    margin-right: 41rem;
+}
+
+#figure5-25 {
+    margin-left: 46.45rem;
+    top: 17.5rem;
+    transform: rotate(90deg);
+    width: 10rem;
+}
+
+#figure5-3 {
+    width: 53.95rem;
+    top: 20rem;
+    margin-left: 0rem;
+}
+
